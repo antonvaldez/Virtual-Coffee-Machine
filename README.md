@@ -25,9 +25,12 @@ A simple text-based coffee machine built with Python. It lets users choose betwe
 - `report`: Print the remaining water, milk, coffee, and total money
 - `off`: Shut down the machine
 
+💡 You can manually edit the starting amounts of water, milk, and coffee by changing the `resources` dictionary at the top of the `main.py` file.
+
 ## 📁 Files
 
 - `main.py`: Main Python script with all logic
+  ↳ Edit the `resources` dictionary in this file to set initial amounts.
 - `README.md`: This file
 
 ## 🧠 Learning Focus
