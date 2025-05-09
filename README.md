@@ -29,7 +29,8 @@ A simple text-based coffee machine built with Python. It lets users choose betwe
 
 ## 📁 Files
 
-- `main.py`: Main Python script with all logic
+- `main.py`: Main Python script with all logic  
+
   ↳ Edit the `resources` dictionary in this file to set initial amounts.
 - `README.md`: This file
 
